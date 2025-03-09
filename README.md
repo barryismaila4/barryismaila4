@@ -3,7 +3,7 @@ A passionate **Full Stack Developer** from **Mali** 🚀
 
 🔭 I’m currently working on **ecommerce**  
 🌱 I’m currently learning **DEVOPS**  
-📝 I regularly write articles on [barryismaila4.github.io](https://barryismaila4.github.io)  
+📝 I regularly write articles on [barryismaila4.github.io](https://barryismaila4.github.io/deeplabs)  
 💬 Ask me about **Spring Boot, Angular, FastAPI**  
 📫 Reach me at **ismaila.barry@esprit.tn**  
 
