@@ -61,8 +61,9 @@ A passionate **Full Stack Developer** from **Mali** 🚀
 ```mermaid
 pie
     title Most Used Languages
-    "TypeScript": 40
+    "TypeScript": 20
     "Java": 20
+    "Java-Script": 20
     "Python": 20
     "PHP": 10
-    "Twig": 10
+    "C#": 10
